@@ -1,4 +1,4 @@
-# Getting Started with Create React App, React-redux, Redux-saga, Typescript
+# Getting Started with Create React App, React-redux, Redux-saga, Typescript, SASS/SCSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
